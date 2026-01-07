@@ -10,6 +10,9 @@ A feature-rich thermal camera viewer for Linux with real-time temperature displa
 
 This viewer was developed specifically for the **Mega-Idea Super IR Cam 2S Pro** thermal camera, commonly used for PCB diagnostics and electronics repair. It provides real-time thermal imaging with temperature measurements without requiring Windows software.
 
+<img width="1133" height="677" alt="Screenshot example" src="https://github.com/user-attachments/assets/c29b17da-a3e2-4e93-83f1-62362bd881e6" />
+
+
 ### Key Features
 
 - **Real-time thermal imaging** with multiple color palettes
